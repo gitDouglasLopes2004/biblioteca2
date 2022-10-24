@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ASTA GAMES\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ASTA GAMES\\.nuget\\packages"
+    ]
+  }
+}
